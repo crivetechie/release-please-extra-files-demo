@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.6.0](https://github.com/crivetechie/release-please-extra-files-demo/compare/v1.5.1...v1.6.0) (2025-10-01)
+
+### Features
+
+- three ([#4](https://github.com/crivetechie/release-please-extra-files-demo/issues/4)) ([9a916ae](https://github.com/crivetechie/release-please-extra-files-demo/commit/9a916ae434d9939ebf4cb74b3a67a0aeed5ad4d9))
+
 ## [1.5.1](https://github.com/crivetechie/release-please-extra-files-demo/compare/v1.5.1...v1.5.1) (2025-10-01)
 
 ### Features
